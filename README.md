@@ -2,6 +2,8 @@
 
 Letting ChatGPT decide if and when to respond in a group chat.
 
+![lol](https://raw.githubusercontent.com/realrasengan/chatgpt-groupchat-test/main/pic.jpg)
+
 ## Introduction
 
 I wanted to see if ChatGPT could decide when to participate in a group chat. The simple test is live right now in #freenode.
